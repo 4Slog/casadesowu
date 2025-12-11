@@ -1,0 +1,17 @@
+# Home Assistant runtime DBs and logs
+homeassistant/home-assistant_v2.db*
+homeassistant/zigbee.db*
+homeassistant/home-assistant.log*
+homeassistant/backups/
+homeassistant/export/
+homeassistant/tts/
+
+# Cloud / auth / config internals
+homeassistant/.cloud/
+homeassistant/.storage/auth
+homeassistant/.storage/auth_provider.homeassistant
+homeassistant/.storage/core.config
+homeassistant/.storage/google.*
+
+# Secrets
+homeassistant/secrets.yaml
