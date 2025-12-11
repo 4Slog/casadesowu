@@ -8,6 +8,7 @@ homeassistant/tts/
 
 # Cloud / auth / config internals
 homeassistant/.cloud/
+homeassistant/.storage/
 homeassistant/.storage/auth
 homeassistant/.storage/auth_provider.homeassistant
 homeassistant/.storage/core.config
